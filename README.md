@@ -13,4 +13,4 @@ This project implements an ETL pipeline that integrates AWS S3, MongoDB, Apache 
 
 ## Pipeline Architecture: 
 
-![ETL Pipeline](/Users/clarckdorcent/Downloads/ETL_Pipeline.drawio.png)
+![ETL_Pipeline drawio](https://github.com/user-attachments/assets/e185d118-edb7-4a29-9607-6134b5199c41)
